@@ -27,6 +27,9 @@
 #include <cutils/log.h>
 
 #include "LightSensor.h"
+#define LOGE_IF
+#define LOGE
+#define LOGV
 
 // #define LOG_NDEBUG 0
 

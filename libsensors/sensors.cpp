@@ -61,7 +61,7 @@
 #define AKM_FTRACE 0
 #define AKM_DEBUG 0
 #define AKM_DATA 0
-
+#define LOGE
 /*****************************************************************************/
 
 /* The SENSORS Module */

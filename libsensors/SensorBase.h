@@ -16,7 +16,7 @@
 
 #ifndef ANDROID_SENSOR_BASE_H
 #define ANDROID_SENSOR_BASE_H
-
+#define LOGE_IF
 #include <stdint.h>
 #include <errno.h>
 #include <sys/cdefs.h>

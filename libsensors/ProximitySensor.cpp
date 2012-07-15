@@ -27,6 +27,9 @@
 #include <cutils/log.h>
 
 #include "ProximitySensor.h"
+#define LOGE_IF
+#define LOGE
+#define LOGV
 
 /*****************************************************************************/
 

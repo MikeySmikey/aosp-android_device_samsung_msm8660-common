@@ -62,7 +62,7 @@ PRODUCT_PACKAGES += \
 
 # Lights Support
 #PRODUCT_PACKAGES += \
-#	lights.msm8660
+	lights.msm8660
 
 # GalaxyS2Settings
 #PRODUCT_PACKAGES += \
@@ -71,7 +71,7 @@ PRODUCT_PACKAGES += \
 
 # GPS
 #PRODUCT_PACKAGES += \
-#	gps.msm8660
+	gps.msm8660
 
 ifeq ($(BOARD_HAVE_NFC),true)
 

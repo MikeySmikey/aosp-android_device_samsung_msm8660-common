@@ -16,7 +16,7 @@
 
 #ifndef ANDROID_LIGHT_SENSOR_H
 #define ANDROID_LIGHT_SENSOR_H
-
+#define LOGE_IF
 #include <stdint.h>
 #include <errno.h>
 #include <sys/cdefs.h>
